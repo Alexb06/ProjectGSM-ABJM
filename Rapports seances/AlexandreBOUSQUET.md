@@ -1,4 +1,4 @@
-= Rapport de séances 
+==Rapport de séances 
 
 <h1> Mise en place de Github <h1>
   
