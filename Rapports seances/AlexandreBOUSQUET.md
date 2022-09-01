@@ -11,7 +11,7 @@ Séance n° 1 :  Mise en place de Github
   
 * Création du fichier "Rapport de seances" 
   
-* Création de ce fichier mardown pour le suivi des séances
+* Création de ce fichier markdown pour le suivi des séances
  
 <p> La prochaine étape consistera à trouver un modem viable permettant de communiquer dans un budget inférieur à 100 euros <p>
   
